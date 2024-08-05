@@ -5,13 +5,10 @@
 <p>Technology and innovation passionate. My biggest dream is to travel the world with a minivan and my dogs. Feel free to contact me for any reason, whether for work stuff or small talk.</p>
 
 ### 📝 Currently studying:
-
 <img src="https://skillicons.dev/icons?i=dotnet,linux" />
 
-
 ### 🖥️ Tools and Technologies:
-<img src="https://skillicons.dev/icons?i=python,html,css" />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy">
+<img src="https://skillicons.dev/icons?i=python,html,css"/>
 
 
 ### 📫 Contact:

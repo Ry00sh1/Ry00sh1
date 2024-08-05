@@ -1,11 +1,11 @@
 # Pedro Sena
-## Full Stack Developer enthusiast.
+## Full Stack Developer, DevOps and Cibersecurity beginner.
 
 ### Hello, world! 🖐️
-<p>I'm 24 y.o. and I live in Rio de Janeiro, Brazil. I love dogs (maybe I'll have a cat someday) and technology. My biggest dream is to travel the world with a minivan and my dogs. As a begginer ir programming, I'm focusing my studies in FrontEnd development (with HTML, CSS and JavaScript) and BackEnd Development (with Python). Feel free to contact me for any reason, whether for work stuff or small talk XD.</p>
+<p>Technology and innovation lover. My biggest dream is to travel the world with a minivan and my dogs. Currently studying ***.NET***. Feel free to contact me for any reason, whether for work stuff or small talk.</p>
 
 ### 🖥️ Tools and Technologies:
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy">
 
 ### 📫 Contact:
 <div>

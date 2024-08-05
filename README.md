@@ -6,7 +6,7 @@
 
 ### 📝 Currently studying:
 
-<img src="https://skillicons.dev/icons?i=dotnet, linux" />
+<img src="https://skillicons.dev/icons?i=dotnet,linux" />
 
 
 

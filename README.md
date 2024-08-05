@@ -2,7 +2,7 @@
 ## Full Stack Developer, DevOps and Cibersecurity beginner.
 
 ### Hello, world! 🖐️
-<p>Technology and innovation lover. My biggest dream is to travel the world with a minivan and my dogs. Currently studying **.NET**. Feel free to contact me for any reason, whether for work stuff or small talk.</p>
+<p>Technology and innovation lover. My biggest dream is to travel the world with a minivan and my dogs. Currently studying *.NET*. Feel free to contact me for any reason, whether for work stuff or small talk.</p>
 
 ### 🖥️ Tools and Technologies:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy">

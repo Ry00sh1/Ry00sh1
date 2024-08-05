@@ -6,9 +6,8 @@
 
 ### 📝 Currently studying:
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dotnet" />
-</a>
+<img src="https://skillicons.dev/icons?i=dotnet" />
+
 
 
 ### 🖥️ Tools and Technologies:

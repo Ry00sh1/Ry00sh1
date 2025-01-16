@@ -9,7 +9,7 @@
 <img src="https://skillicons.dev/icons?i=react,docker" />
 
 ### 🖥️ Tools and Technologies:
-<img src="https://skillicons.dev/icons?i=python,django,html,css,figma"/>
+<img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,figma"/>
 
 
 ### 📫 Contact:

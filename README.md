@@ -1,5 +1,5 @@
 # Pedro Sena
-## Bachelor's Computer Engineering (4/10)
+## Bachelor's Computer Engineering (5/10)
 ### Fields of interest: Full Stack Development, DevOps and Cibersecurity.
 
 ### Hello, world! 🖐️

@@ -1,12 +1,12 @@
 # Pedro Sena
 ## Bachelor's Computer Engineering (5/10)
-### Fields of interest: Full Stack Development, DevOps and Cibersecurity.
+### Fields of interest: Sofware Development, DevOps and Cibersecurity.
 
 ### Hello, world! 🖐️
 <p>Technology and innovation passionate. My biggest dream is to travel the world with a minivan and my dogs. Feel free to contact me for any reason, whether for work stuff or small talk.</p>
 
 ### 📝 Currently studying:
-<img src="https://skillicons.dev/icons?i=react,docker" />
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,docker" />
 
 ### 🖥️ Tools and Technologies:
 <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,figma"/>

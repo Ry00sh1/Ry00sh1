@@ -15,8 +15,8 @@ Technology and innovation passionate. My biggest dream is to travel the world wi
 ### 🖥️ Tools and Technologies
 
 ![Python, Django, FastAPI, HTML, CSS, Bootstrap, Figma icons](https://skillicons.dev/icons?i=python,django,fastapi,html,css,bootstrap,figma)
-<img src="./src/langchain-color.svg" alt="Langchain logo" width="48" height="48" />
-<img src="./src/CrewAI%20Wordmark.svg" alt="CrewAI Wordmark" width="48" height="48" />
+<img src="./src/langchain-color.svg" alt="Langchain logo" width="48" height="48" style="background:#fff;border-radius:12px;padding:4px;box-shadow:0 1px 4px rgba(0,0,0,0.04);" />
+<img src="./src/CrewAI%20Wordmark.svg" alt="CrewAI Wordmark" width="48" height="48" style="background:#fff;border-radius:12px;padding:4px;box-shadow:0 1px 4px rgba(0,0,0,0.04);" />
 
 ### 📫 Contact
 

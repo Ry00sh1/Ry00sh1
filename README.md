@@ -23,8 +23,11 @@ Technology and innovation passionate. My biggest dream is to travel the world wi
 [![Gmail badge: phasena@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phasena@gmail.com)  
 [![LinkedIn badge: Pedro Sena](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-h-a-sena/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry00sh1&layout=compact&langs_count=7&theme=dracula)](https://github.com/Ry00sh1)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ry00sh1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Ry00sh1)
+<div>
+<a href="https://github.com/Ry00sh1">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ry00sh1&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ry00sh1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <!---
 icons: https://github.com/tandpfun/skill-icons
